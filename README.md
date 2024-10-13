@@ -14,6 +14,5 @@ ywdh
 4. cara main:tombl spasi utk terbang keatas
 5. jangan sampai terkena pipa rintangan,jikalau terkena permainanan aka di ulang dari awal
 6. tombol ESC untuk merestart permainan setelah mati
-# burungmnk
-# burungmnk
+# burung
 # burunksan
